@@ -6,6 +6,9 @@
 基本的に各Lessonのread.meに出題内容を記載する予定なので、それを参考に問題を解いてみてください。
 全てjavaScriptで出題しますが、ほかの言語に置き換えても面白いかもしれません。
 
+javascriptの実行環境の作成が面倒な人は以下を使用してみてください
+https://paiza.io/ja
+
 githubの使い方とかがわからない人はこちらから
 https://qiita.com/nnahito/items/565f8755e70c51532459
 
