@@ -1,16 +1,11 @@
 function multiply(a, b){
-  return a * b;
+  a * b
 }
 
 
 /* 以下はテストコードになるのでいじらないでください。 */
-const assert = require("chai").assert;
 
-describe("Multiply", () => {
-  it("fixed tests", () => {
-    assert.strictEqual(multiply(1,1), 1);
-    assert.strictEqual(multiply(2,1), 2);
-    assert.strictEqual(multiply(2,2), 4);
-    assert.strictEqual(multiply(3,5), 15);   
-  });
-});
+console.log(multiply(1,1) === 1);
+console.log(multiply(2,1) === 2);
+console.log(multiply(2,2) === 4);
+console.log(multiply(3,5) === 15);
