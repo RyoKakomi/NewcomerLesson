@@ -16,4 +16,13 @@ https://qiita.com/nnahito/items/565f8755e70c51532459
 
 それでもわからない人は頑張って調べてみてください。
 
+できた人は、各Lessonのanswerフォルダにjsファイルをおいてください。
+
+ファイル名は、自分の名前+.jsでお願いします。
+
+例：
+tanaka.js
+takahashi.js
+kimura.js
+
 ※更新頻度は不定期です。
